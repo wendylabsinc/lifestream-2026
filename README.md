@@ -2,6 +2,8 @@
 
 Static Three.js sketch deployed with GitHub Pages.
 
+Live site: https://wendylabsinc.github.io/lifestream-2026/
+
 ## Local preview
 
 ```sh
